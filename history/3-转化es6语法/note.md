@@ -7,7 +7,7 @@
 - 打包（支持js的模块化）
 
 ## 手动配置webpack
-- 默认配置文件的名字 webpack.config.js
+- 默认配置文件的名字 webpack.base.js
 
 ## webpack别名
 - webpack --config webpack.config.my.js

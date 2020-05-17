@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "name": "learn-webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yiyuansheng/learn-webpack.git",
+  "author": "胜 <897380685@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "html-webpack-plugin": "^4.3.0"
+  }
+}
