@@ -9,7 +9,7 @@
 ## 手动配置webpack
 - 默认配置文件的名字 webpack.config.js
 
-## webpack别名
+## webpack别名打包
 - webpack --config webpack.config.my.js
 
 ## webpack-dev-server 开发服务
